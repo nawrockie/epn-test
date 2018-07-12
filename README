@@ -1,0 +1,18 @@
+# epn-test.pm
+# version 0.01
+# July 2018 [v0.01]
+#
+# This file explains some aspects of the epn-test.pm module.
+# 
+# epn-test.pm requires that epn-options.pm and epn-ofile.pm also
+# be installed and in the user's PERL5LIB:
+#
+# https://github.com/nawrockie/epn-options.git
+# https://github.com/nawrockie/epn-ofile.git
+#
+# The comments in epn-test.pm are currently the only documentation
+# for this module. For an example of usage, see ribotyper-v1, which
+# is, as of this writing, the only package that uses epn-test.pm:
+#
+# https://github.com/nawrockie/ribotyper-v1.git
+# 
