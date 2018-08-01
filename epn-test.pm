@@ -237,7 +237,7 @@ sub test_DiffTwoFiles {
     }
   }
   else { 
-    $conclusion = ($out_file_exists) ? "FAIL [output file does not exist]" : "FAIL [output file exists but is empty]";
+    $conclusion = ($out_file_exists) ? "FAIL [output file exists but is empty]" : "FAIL [output file does not exist]";
   }
 
   ofile_OutputString($FH_HR->{"log"}, 1, "$conclusion\n");
