@@ -3,7 +3,7 @@
 # epn-test.pm
 # Eric Nawrocki
 # EPN, Thu Jul 12 10:00:53 2018
-# version: 0.01
+# version: 0.02
 #
 use strict;
 use warnings;
